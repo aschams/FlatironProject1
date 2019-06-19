@@ -103,6 +103,12 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+<<<<<<< HEAD
 
 # data folder
 data
+=======
+# data folder
+data
+
+>>>>>>> mb_branch
